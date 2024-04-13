@@ -1,7 +1,6 @@
 import { defineConfig } from "vitepress";
 // refer https://vitepress.vuejs.org/config/introduction for details
 export default defineConfig({
-  base: '/lanqiao/',
   lang: "zh-cn",
   title: "蓝桥杯",
   description: "蓝桥杯",
